@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.fun.in.galataApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>galata ApPlicATIOn</name>
+<widget id="com.fun.in.angUI" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>AngularUI Pllication</name>
     <description>
-        Galata updates application.
+        https://github.com/algae514/angularMobile_UI.git
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
